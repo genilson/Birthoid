@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birthoid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logout">Logout</string>
+    <string name="app_id">394701940622280</string>
+    <string name="inicio">Efetue logon na sua conta do Facebook para começar!</string>
+    <string name="nome">Nome</string>
+    <string name="aniversario">aniversário</string>
+    <string name="error_dialog_title">Erro</string>
+    <string name="error_dialog_button_text">OK</string>
+    <string name="btn_carregar">Escolher Amigos</string>
+    <string name="aguarde">Aguarde...</string>
+    <string name="erro_facebook">Houve um erro de conexão, tente logar-se novamente.</string>
+
+</resources>
