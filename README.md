@@ -16,7 +16,7 @@ More information
 ================
 
 > New features to be added: allow users to configure a notification of
-birthdays of selected friends, see friends whose birthdays are in an specific
+birthdays of selected friends, see friends whose birthdays are in a specific
 date and post on friend's walls.
 
 

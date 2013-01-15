@@ -30,9 +30,9 @@ Dependencies
 ------------
 	
 > It's necessary to import the Facebook SDK 3.0 for Android (which I've included
-for the sake of convenience) along with the application project. After importing,
-make sure to right click the project's folder, select properties -> android and
-set facebook library in the libraries section.
+in the repo for the sake of convenience) along with the application project.
+After importing, make sure to right click the project's folder, select
+properties -> android and set facebook library in the libraries section.
 
 
 Usage
